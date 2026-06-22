@@ -1,16 +1,57 @@
-# React + Vite
+# 🚀 Project Management Dashboard (React + MUI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional-level Project Management Dashboard built using React.js and Material UI. It includes CRUD operations, analytics, filtering, and a modern UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📊 Interactive Dashboard with stats cards
+- 📁 Project filtering (AI / Web / Education)
+- 🧩 MUI Data Grid for project listing
+- ➕ Add new projects (Popup form)
+- ✏️ Edit existing projects
+- 👁️ View project details
+- 🗑️ Delete with confirmation
+- 🔍 Search functionality
+- 📈 Pie chart visualization (Recharts)
+- 🖼️ Image upload support
+- 🌙 Dark mode support
+- 📱 Responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Material UI (MUI)
+- Recharts
+- JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+src/
+├── components/
+├── pages/
+├── data/
+├── assets/
+├── App.jsx
+---
+
+## 🚀 Getting Started
+
+### 1. Clone repository
+```bash
+git clone https://github.com/Alisha-Akhtar/Project-Management-Dashboard.git
+```
+2. Install dependencies
+npm install
+3. Run project
+npm run dev
+📸 Features Preview
+Dashboard analytics
+Project CRUD system
+Data Grid management
+👩‍💻 Author
+Built by Alisha Akhtar
